@@ -27,3 +27,4 @@ class ActionDispatch::IntegrationTest
                                           remember_me: remember_me } }
   end
 end
+
